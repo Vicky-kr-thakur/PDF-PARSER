@@ -1,0 +1,7 @@
+*~
+*.pyc
+.vscode
+__pycache__
+dist/
+build/
+pdf4py.egg-info/
